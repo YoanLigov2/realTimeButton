@@ -3,7 +3,7 @@ import axios from 'axios';
 import Pusher from 'pusher-js';
 
 Pusher.logToConsole = true;
-
+//coment
 var pusher = new Pusher('fe962295d397897d3376', {
   cluster: 'eu'
 });
